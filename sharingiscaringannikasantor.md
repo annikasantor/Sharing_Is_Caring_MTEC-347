@@ -1,4 +1,4 @@
-# Annika Santor Sharing is Caring SuperCollider Assignment
+# Vocal Warm Up Simulator
 
 ## How to run the program
 The program itself is very easy to run. Just command return inside of the various chunks of code to play the example or exercise. 
@@ -19,4 +19,5 @@ I began by playing around with different options of options for what direction I
 For this project I mostly built off of material from the super collider documentation and code and examples from our class repo.
 
 [Class Repo](https://github.com/rdwrome/347sp26/tree/main/06.patternsw%3Anodes)
+
 [SuperCollider Documentation](https://docs.supercollider.online)
